@@ -1,3 +1,3 @@
-module github.com/vmuthabuku/greet
+module github.com/vmuthabuku/go-import
 
-go 1.14
+go 1.16
